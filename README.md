@@ -99,4 +99,4 @@ supabase/
 
 ## Author
 
-Jireh Castillano
+Ken (Fushitowa)
